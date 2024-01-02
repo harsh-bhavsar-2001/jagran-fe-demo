@@ -1,0 +1,1022 @@
+const markup = {
+   __html: `<div _ngcontent-slo-c374="" class="mx-auto h-100 d-flex flex-column pt-12 pb-4 px-8 overflow-y-auto styled-scrollbar editor-container-wrapper border-none gap-3 desktop">
+   <div _ngcontent-slo-c374="" class="jg-d-flex jg-w-100 column-title ng-star-inserted">
+      <div _ngcontent-slo-c374="" class="jg-pos-relative jg-w-100 jg-d-flex jg-flex-fill device-view jg-gap-3">
+         <div _ngcontent-slo-c374="" class="draggable-node one-column" style="width: 100%;">
+            <div _ngcontent-slo-c374="" class="fn-reset">
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <app-fn-featured-headline _ngcontent-slo-c373="" _nghost-slo-c366="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c366="" class="css-reset ql-editor ng-star-inserted">
+                              <div _ngcontent-slo-c366="" class="preview-inline-text" style="padding-top: 10px; padding-bottom: 10px;">
+                                 <h1 class="ql-align-justify"><strong class="ql-font-merriweather" style="font-size: 30px; color: rgb(0, 0, 0); font-weight: 900;">Delhi Ordinance: Why AAP Is At Loggerheads With Centre; Road Ahead For Arvind Kejriwal | Explained</strong></h1>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-featured-headline>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-author _ngcontent-slo-c373="" _nghost-slo-c371="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c371="" class="fn-preview ng-star-inserted">
+                              <ul _ngcontent-slo-c371="" class="jg-ul jg-list-none jg-d-flex jg-flex-wrap jg-align-items-center jg-gap-10px" style="padding-top: 10px; padding-bottom: 10px;">
+                                 <li _ngcontent-slo-c371="">BY <a _ngcontent-slo-c371="" href="#">Jagran Josh</a></li>
+                                 <li _ngcontent-slo-c371="">Wed, 28 Jun 2023 11:11 AM (IST)</li>
+                                 <li _ngcontent-slo-c371="">Source: JND</li>
+                              </ul>
+                           </div>
+                           <!---->
+                        </app-fn-author>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!---->
+                        <app-fn-featured-summary _ngcontent-slo-c373="" _nghost-slo-c367="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c367="" class="css-reset ql-editor ng-star-inserted">
+                              <div _ngcontent-slo-c367="" class="fn-preview">
+                                 <div _ngcontent-slo-c367="" class="fn-paragraph css-reset" style="padding-top: 10px; padding-bottom: 10px;">
+                                    <p><span style="font-size: 18px; color: rgb(32, 33, 36);" class="ql-font-popins">An ordinance is generally a law that can only be promulgated by the President of India when the parliament is not in session. According to the Centre's ordinance, it is aimed at controlling the services in the national capital by forming a permanent National Capital Civil Service Authority (NCCSA) that will have the Chief Minister as the chairperson and the Chief Secretary and Principal Home Secretary as its members. </span></p>
+                                 </div>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-featured-summary>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!---->
+                        <app-fn-featured-media _ngcontent-slo-c373="" _nghost-slo-c368="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c368="" class="fn-image fn-preview">
+                              <!----><!----><!----><img _ngcontent-slo-c368="" class="jg-w-100 ng-star-inserted" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/1689749115140-46c23b39-e023-4c31-9604-c8170fd52466.jpeg" alt="image" style="max-height: 500px;"><!----><!---->
+                           </div>
+                        </app-fn-featured-media>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!---->
+                        <app-fn-paragraph _ngcontent-slo-c373="" _nghost-slo-c345="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c345="" class="css-reset ql-editor ng-star-inserted">
+                              <div _ngcontent-slo-c345="" class="fn-preview">
+                                 <div _ngcontent-slo-c345="" class="fn-paragraph css-reset" style="padding-top: 10px; padding-bottom: 10px;">
+                                    <p><span style="font-size: 18px; color: rgb(32, 33, 36);">After days of deliberations and meetings, Congress on Sunday(July 16) extended its support to the Aam Aadmi Party (AAP) in its fight against the ordinance brought by the Centre for the Control of Services in Delhi. The Grand Old Party made it clear that it would oppose any attempt by the central government to "sabotage federalism" in the country. "I think they (AAP) are going to join the meeting tomorrow. As for the ordinance (on control of services in Delhi), our stand is very clear. We are not going to support it," party general secretary KC Venugopal said. As Congress ended weeks of speculation over its stand on the Delhi Ordinance and extended its support to the fight of Kejriwal against the Centre's ordinance, the Aam Aadmi Party (AAP) has the support of almost all major parties.</span></p>
+                                    <p><br></p>
+                                    <p><span style="font-size: 18px; color: rgb(32, 33, 36);">Among the parties that have extended support to AAP are the Samajwadi Party, Shiv Sena (UBT), Trinamool Congress, Jharkhand Mukti Morcha, Dravida Munnetra Kazhagam (DMK), Bhartiya Rastriyawadi Samanta Party (BRS), NCP, JDU, RJD, JMM, CPI, CPI (M), and TRS.</span></p>
+                                    <p><br></p>
+                                    <p><strong style="font-size: 18px; color: rgb(32, 33, 36);">What is Government Of National Capital Territory Of Delhi (Amendment) Ordinance?</strong></p>
+                                    <p><br></p>
+                                    <p><span style="font-size: 18px; color: rgb(32, 33, 36);">An ordinance is generally a law that can only be promulgated by the President of India when the parliament is not in session. According to the Centre's ordinance, it is aimed at controlling the services in the national capital by forming a permanent National Capital Civil Service Authority (NCCSA) that will have the Chief Minister as the chairperson and the Chief Secretary and Principal Home Secretary as its members. NCCSA will exercise authority over the civil service officers working in the Delhi government except for those working for public order, police, and land. NCCSA will decide all the policies relating to civil servants, including postings, transfers, prosecution, and sanctions, by voting by the members. It is to be noted here that if there is a dispute, the decision of the Lieutenant Governor will be final.&nbsp;</span></p>
+                                 </div>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-paragraph>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-image _ngcontent-slo-c373="" _nghost-slo-c348="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c348="" class="fn-image fn-preview ng-star-inserted">
+                              <!----><img _ngcontent-slo-c348="" class="jg-w-100" alt="image" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/1689749258611-3694b12b-bfa9-4370-854c-29480a4ce682.jpeg" style="max-height: 800px;"><!---->
+                           </div>
+                           <!---->
+                        </app-fn-image>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!---->
+                        <app-fn-inline _ngcontent-slo-c373="" _nghost-slo-c344="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c344="" class="css-reset ql-editor ng-star-inserted" style="padding-top: 10px; padding-bottom: 10px;">
+                              <p><strong class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px; font-weight: 700;">How will LG become "Supreme" regarding services matters in national capital?</strong></p>
+                              <p><br></p>
+                              <p><span class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px;">The ordinance has given the Lieutenant Governor the power to make a final call regarding the decision taken by the NCCSA regarding services. A constitution bench had curtailed the powers of LG in 2018, and the apex court had agreed with it. The Supreme Court had said back then that the powers accorded to the LG should be used only in rare circumstances such as finance and national interest. It had also been noted that the LG cannot refer every matter to the president.</span></p>
+                              <p><br></p>
+                              <p><strong class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px; font-weight: 700;">Why Are AAP and the Centre At Loggerheads Over Delhi Ordinance Row?</strong></p>
+                              <p><br></p>
+                              <p><span class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px;">Days after the Supreme Court granted the Delhi government the power to administer civil services in the National Capital in early May, the BJP-led Centre introduced an ordinance apparently nullifying the order. The order by the top court limited the power of the Lieutenant Governor over services related to three areas, such as public order, police, and land. However, on May 19, the President promulgated the Government of the National Capital Territory of Delhi (Amendment) Ordinance.&nbsp;</span></p>
+                              <p><br></p>
+                              <p><span class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px;">According to the Firestops, the Centre stated that the aim of the ordinance is to "provide for a comprehensive scheme of administration of services" that "balances the local and domestic interests of the people of Delhi with the democratic will of the entire nation reflected through the President of India".</span></p>
+                              <p><br></p>
+                              <p><span class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px;">As the Ordinance has been promulgated, the Centre puts the LG back in the driver's seat over the decision regarding the services. He will take the final call regarding every matter if there is a dispute between the NCCSA members.</span></p>
+                              <p><br></p>
+                              <p><strong class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px; font-weight: 700;">What's next in the ordinance game?</strong></p>
+                              <p><br></p>
+                              <p><span class="ql-font-popins" style="color: rgb(32, 33, 36); font-size: 18px;">The ordinance promulgated by the Centre can now be challenged in the apex court for a review, and the Union government will have to prove why it was necessary to promulgate this ordinance after the ruling by the top court. Another way out for this ordinance is to defeat it in the Upper house of parliament by seeking help from the opposition leaders. Arvind Kejriwal has met almost all the like-minded opposition leaders, and most of them have agreed to support him in this battle against the Centre.</span></p>
+                           </div>
+                           <!---->
+                        </app-fn-inline>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-embed _ngcontent-slo-c373="" _nghost-slo-c347="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c347="" class="ng-star-inserted">
+                              <div _ngcontent-slo-c347="" class="jg-embed-container">
+                                 <iframe _ngcontent-slo-c347="" iframeautoheight="" scrolling="no" frameborder="0" width="100%" class="w-max-100 jg-iframe-element ng-star-inserted" id="fn-embed_NcALtO" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=jagrannews&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2hvd19idXNpbmVzc192ZXJpZmllZF9iYWRnZSI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfbWl4ZWRfbWVkaWFfMTU4OTciOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd19leHBlcmltZW50c19jb29raWVfZXhwaXJhdGlvbiI6eyJidWNrZXQiOjEyMDk2MDAsInZlcnNpb24iOm51bGx9LCJ0ZndfZHVwbGljYXRlX3NjcmliZXNfdG9fc2V0dGluZ3MiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3ZpZGVvX2hsc19keW5hbWljX21hbmlmZXN0c18xNTA4MiI6eyJidWNrZXQiOiJ0cnVlX2JpdHJhdGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmx1ZV92ZXJpZmllZF9iYWRnZSI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0Zndfc2hvd19nb3ZfdmVyaWZpZWRfYmFkZ2UiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYnVzaW5lc3NfYWZmaWxpYXRlX2JhZGdlIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2Zyb250ZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH19&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1623642403532902403&amp;lang=hi&amp;origin=https%3A%2F%2Fwww.jagran.com%2Futtarakhand%2Fdehradun-city-uttarakhand-clashes-lathi-charge-and-stone-pelting-between-police-and-students-in-dehradun-23324059.html&amp;sessionId=dba02190c10c6a5b148ed050c3131908bce62a8d&amp;siteScreenName=jagrannews&amp;theme=light&amp;widgetsVersion=aaf4084522e3a%3A1674595607486&amp;width=550px%27" style="height: 546px;"></iframe><!----><!---->
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-embed>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 0px; margin-bottom: 5px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-quote _ngcontent-slo-c373="" _nghost-slo-c356="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c356="" class="css-reset ql-editor ng-star-inserted">
+                              <div _ngcontent-slo-c356="" class="fn-quote fn-preview">
+                                 <div _ngcontent-slo-c356="" style="padding-top: 0px; padding-bottom: 10px;">
+                                    <!---->
+                                    <blockquote _ngcontent-slo-c356="" class="jg-px-12px jg-quote-padding jg-pull-quote-border ng-star-inserted" style="border-color: rgb(79, 69, 70); border-width: 2px;">
+                                       <div _ngcontent-slo-c356="" class="jg-d-flex jg-gap-2 jg-mx-20px jg-pt-20px">
+                                          <div _ngcontent-slo-c356="" class="jg-d-flex jg-h-100">
+                                             <svg _ngcontent-slo-c356="" width="16" height="13" viewBox="0 0 14 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path _ngcontent-slo-c356="" d="M1.36077 0H4.75774C5.50712 0 6.11652 0.616669 6.11652 1.375V4.8125C6.11652 5.57083 5.50712 6.1875 4.75774 6.1875H1.42214C1.74712 8.13528 3.42122 9.625 5.43713 9.625H5.77682C5.96459 9.625 6.11652 9.77875 6.11652 9.96875V10.6562C6.11652 10.8463 5.96459 11 5.77682 11H5.43713C2.44024 11 0.00198555 8.53265 0.00198555 5.5V4.8125V4.125V1.375C0.00198555 0.616669 0.611382 0 1.36077 0ZM8.83409 0H12.2311C12.9804 0 13.5898 0.616669 13.5898 1.375V4.8125C13.5898 5.57083 12.9804 6.1875 12.2311 6.1875H8.89546C9.22044 8.13528 10.8945 9.625 12.9105 9.625H13.2501C13.4379 9.625 13.5898 9.77875 13.5898 9.96875V10.6562C13.5898 10.8463 13.4379 11 13.2501 11H12.9105C9.91356 11 7.47531 8.53265 7.47531 5.5V4.8125V4.125V1.375C7.47531 0.616669 8.0847 0 8.83409 0Z" fill="#585c69"></path>
+                                             </svg>
+                                          </div>
+                                          <div _ngcontent-slo-c356="" class="ng-star-inserted">
+                                             <div _ngcontent-slo-c356="" class="css-reset">
+                                                <p><span style="font-size: 18px; color: rgb(32, 33, 36);">After days of deliberations and meetings, Congress on Sunday(July 16) </span></p>
+                                                <p><span style="font-size: 18px; color: rgb(32, 33, 36);">extended its support to the Aam Aadmi Party (AAP) in its fight against the</span></p>
+                                                <p><span style="font-size: 18px; color: rgb(32, 33, 36);">ordinance brought by the Centre for the Control of Services in Delhi.</span></p>
+                                                <p><span style="font-size: 18px; color: rgb(32, 33, 36);">The Grand Old Party made it clear that it would oppose any attempt by </span></p>
+                                                <p><span style="font-size: 18px; color: rgb(32, 33, 36);">the central government to "sabotage federalism" in the country.</span></p>
+                                                <p><br></p>
+                                             </div>
+                                          </div>
+                                          <!---->
+                                          <div _ngcontent-slo-c356="" class="jg-d-flex jg-align-self-end jg-h-100 jg-align-items-end">
+                                             <svg _ngcontent-slo-c356="" width="16" height="13" viewBox="0 0 14 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path _ngcontent-slo-c356="" d="M12.2291 0H8.83211C8.08272 0 7.47332 0.616669 7.47332 1.375V4.8125C7.47332 5.57083 8.08272 6.1875 8.83211 6.1875H12.1677C11.8427 8.13528 10.1686 9.625 8.15272 9.625H7.81302C7.62526 9.625 7.47332 9.77875 7.47332 9.96875V10.6562C7.47332 10.8463 7.62526 11 7.81302 11H8.15272C11.1496 11 13.5879 8.53265 13.5879 5.5V4.8125V4.125V1.375C13.5879 0.616669 12.9785 0 12.2291 0ZM4.75575 0H1.35879C0.609397 0 0 0.616669 0 1.375V4.8125C0 5.57083 0.609397 6.1875 1.35879 6.1875H4.69438C4.3694 8.13528 2.6953 9.625 0.679393 9.625H0.339696C0.151935 9.625 0 9.77875 0 9.96875V10.6562C0 10.8463 0.151935 11 0.339696 11H0.679393C3.67629 11 6.11454 8.53265 6.11454 5.5V4.8125V4.125V1.375C6.11454 0.616669 5.50514 0 4.75575 0Z" fill="#585c69"></path>
+                                             </svg>
+                                          </div>
+                                       </div>
+                                       <div _ngcontent-slo-c356="" class="jg-d-inline-flex jg-mx-20px jg-ai-center jg-gap-2 border-b-2px jg-my-8px jg-pb-4px margin-b-0 ng-star-inserted" style="border-color: rgb(100, 94, 95); border-width: 4px;">
+                                          <span _ngcontent-slo-c356="" class="text-18px">-</span>
+                                          <span _ngcontent-slo-c356="" class="css-reset">
+                                             <p><span style="font-size: 18px; color: rgb(32, 33, 36);">Jagran Media</span></p>
+                                          </span>
+                                       </div>
+                                       <!---->
+                                    </blockquote>
+                                    <!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-quote>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-line-break _ngcontent-slo-c373="" _nghost-slo-c346="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c346="" class="fn-line-break fn-preview min-height-0">
+                              <div _ngcontent-slo-c346="" style="margin-top: 10px; margin-bottom: 10px; padding-top: 10px; padding-bottom: 10px;">
+                                 <div _ngcontent-slo-c346="" class="jg-d-flex" style="justify-content: center;">
+                                    <hr _ngcontent-slo-c346="" class="prv-line-break-hr" style="width: 100%; border-top: 1px solid rgb(0, 0, 0);">
+                                 </div>
+                              </div>
+                           </div>
+                        </app-fn-line-break>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-gallery _ngcontent-slo-c373="" _nghost-slo-c360="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c360="" class="ng-star-inserted">
+                              <div _ngcontent-slo-c360="" class="slideshow-container" style="height: 450px;">
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: block;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="343636_ds_gallary_0" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539519-ff24fabe-b059-4b6a-90d3-f23aeb34011c.jpg">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539519-ff24fabe-b059-4b6a-90d3-f23aeb34011c.jpg">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="767751_ds_gallary_1" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538504-b4bdde6b-3d65-45a8-8b82-61029fb02a37.jpg">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538504-b4bdde6b-3d65-45a8-8b82-61029fb02a37.jpg">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="709320_ds_gallary_2" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535751-697c5e95-53b1-48b4-b18c-8ea5c0d9cc98.jpg">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535751-697c5e95-53b1-48b4-b18c-8ea5c0d9cc98.jpg">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="744595_ds_gallary_3" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535470-e6c253d0-9bc0-4449-9ab9-3e7fe1260471.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535470-e6c253d0-9bc0-4449-9ab9-3e7fe1260471.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="912749_ds_gallary_4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535776-bb4ebf92-ed61-40a9-afa4-4963ccb6db00.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763535776-bb4ebf92-ed61-40a9-afa4-4963ccb6db00.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="578204_ds_gallary_5" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763536289-bf21189d-81ba-4515-819c-1f96351a16cb.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763536289-bf21189d-81ba-4515-819c-1f96351a16cb.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="582989_ds_gallary_6" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538489-7a9135c4-89b2-4227-9b7d-dfe52f833416.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538489-7a9135c4-89b2-4227-9b7d-dfe52f833416.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="966879_ds_gallary_7" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538548-91f891e3-96c3-455a-9312-9395b535f008.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538548-91f891e3-96c3-455a-9312-9395b535f008.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="342807_ds_gallary_8" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538865-a9269d2e-1bcb-4a17-b6f3-da509e248e2f.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763538865-a9269d2e-1bcb-4a17-b6f3-da509e248e2f.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="724958_ds_gallary_9" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539570-4c5e7dfd-a6f6-4551-9c22-0d9fda6a92e4.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539570-4c5e7dfd-a6f6-4551-9c22-0d9fda6a92e4.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="461934_ds_gallary_10" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539981-334ced45-31cb-45b8-b6d5-9013398775c4.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763539981-334ced45-31cb-45b8-b6d5-9013398775c4.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="423890_ds_gallary_11" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763540152-93cec6c5-22b8-4b16-a86b-c76e9e79dbf6.png">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763540152-93cec6c5-22b8-4b16-a86b-c76e9e79dbf6.png">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="656174_ds_gallary_12" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763540576-3a4c9200-e398-4262-b0ed-9cdb0fa6f454.jpg">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763540576-3a4c9200-e398-4262-b0ed-9cdb0fa6f454.jpg">
+                                    </video>
+                                 </div>
+                                 <!---->
+                                 <div _ngcontent-slo-c360="" class="ds-slider fade jg-h-100 ng-star-inserted" style="display: none;">
+                                    <img _ngcontent-slo-c360="" height="100%" class="jg-w-100 jg-h-100 object-contain bg-eee" alt="155407_ds_gallary_13" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763541686-01ab2066-c2b8-43c0-b1ea-b3e51367318c.jpg">
+                                    <video _ngcontent-slo-c360="" width="100%" height="100%" controls="" class="jg-w-100 jg-h-100 object-contain bg-eee" hidden="" poster="./assets/media/placeholder/Video-placeholder.png">
+                                       <source _ngcontent-slo-c360="" type="video/mp4" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/asset/1689763541686-01ab2066-c2b8-43c0-b1ea-b3e51367318c.jpg">
+                                    </video>
+                                 </div>
+                                 <!----><!----><a _ngcontent-slo-c360="" class="prev disabled">❮</a><a _ngcontent-slo-c360="" class="next">❯</a>
+                              </div>
+                              <br _ngcontent-slo-c360="">
+                              <div _ngcontent-slo-c360="" class="jg-text-center">
+                                 <span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted active"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><span _ngcontent-slo-c360="" class="ds-slider-dot ng-star-inserted"></span><!----><!---->
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-gallery>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-faqs _ngcontent-slo-c373="" _nghost-slo-c365="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c365="" class="ql-editor px-0" style="padding-top: 10px; padding-bottom: 10px;">
+                              <div _ngcontent-slo-c365="" class="jg-expand-bg jg-ds-border css-reset ng-star-inserted">
+                                 <div _ngcontent-slo-c365="" class="jg-expand-header-container">
+                                    <div _ngcontent-slo-c365="" class="jg-expand-header css-reset">
+                                       <p>Testing Purpose</p>
+                                    </div>
+                                    <i _ngcontent-slo-c365="" class="bi bi-chevron-down before-fw-bold before-dark acc-icon jg-cursor-pointer jg-expand-icon"></i>
+                                 </div>
+                                 <!---->
+                              </div>
+                              <!----><!----><!----><!---->
+                           </div>
+                        </app-fn-faqs>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-before-after _ngcontent-slo-c373="" _nghost-slo-c364="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c364="" class="fn-preview ql-editor ng-star-inserted">
+                              <!----><!---->
+                              <div _ngcontent-slo-c364="" class="image-compare icv icv__icv--horizontal standard" style="margin: auto; max-width: 350px; height: 196.875px;" id="image-compare-bai_8hPH9s">
+                                 <img _ngcontent-slo-c364="" alt="" id="image-bai_8hPH9s" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/1689763916006-4d0e4aab-f1af-4c24-a472-041d986f333e.jpg" class="icv__img icv__img-a">
+                                 <div class="icv__wrapper" style="width: 50%; height: 50%;"><img _ngcontent-slo-c364="" alt="" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/1689763916863-269b4ac9-064b-4028-8ad3-517d36c3f3af.jpg" class="icv__img icv__img-b"></div>
+                                 <div class="icv__control" style="width: 50px; left: calc(50% - 25px);">
+                                    <div class="icv__control-line" style="width: 2px; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.33) 0px 0px 15px;"></div>
+                                    <div class="icv__circle" style="backdrop-filter: blur(5px); border: 2px solid rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.33) 0px 0px 15px;"></div>
+                                    <div class="icv__theme-wrapper">
+                                       <div class="icv__arrow-wrapper" style="transform: translateX(5px);">
+                                          <svg height="15" width="15" style="
+                                             transform: 
+                                             scale(0.7)  
+                                             rotateZ(180deg); height: 20px; width: 20px;
+                                             -webkit-filter: drop-shadow( 0px 3px 5px rgba(0, 0, 0, .33));
+                                             filter: drop-shadow( 0px -3px 5px rgba(0, 0, 0, .33));
+                                             " xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 15 15">
+                                             <path fill="transparent" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" d="M4.5 1.9L10 7.65l-5.5 5.4"></path>
+                                          </svg>
+                                       </div>
+                                       <div class="icv__arrow-wrapper" style="transform: translateX(-5px);">
+                                          <svg height="15" width="15" style="
+                                             transform: 
+                                             scale(0.7)  
+                                             rotateZ(0deg); height: 20px; width: 20px;
+                                             -webkit-filter: drop-shadow( 0px 3px 5px rgba(0, 0, 0, .33));
+                                             filter: drop-shadow( 0px 3px 5px rgba(0, 0, 0, .33));
+                                             " xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 15 15">
+                                             <path fill="transparent" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" d="M4.5 1.9L10 7.65l-5.5 5.4"></path>
+                                          </svg>
+                                       </div>
+                                    </div>
+                                    <div class="icv__control-line" style="width: 2px; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.33) 0px 0px 15px;"></div>
+                                 </div>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-before-after>
+                        <!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-table _ngcontent-slo-c373="" _nghost-slo-c359="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c359="" class="fn-preview ng-star-inserted">
+                              <div _ngcontent-slo-c359="" class="jg-d-flex" style="justify-content: left;">
+                                 <p><br></p>
+                                 <div class="quill-better-table-wrapper">
+                                    <table class="quill-better-table" style="width: 500px;">
+                                       <colgroup>
+                                          <col width="100">
+                                          <col width="100">
+                                          <col width="100">
+                                          <col width="100">
+                                          <col width="100">
+                                       </colgroup>
+                                       <tbody>
+                                          <tr data-row="row-ql02">
+                                             <td data-row="row-ql02" rowspan="1" colspan="1">
+                                                <div data-row="row-ql02" data-cell="cell-ihbi" data-rowspan="1" data-colspan="1">Tax</div>
+                                             </td>
+                                             <td data-row="row-ql02" rowspan="1" colspan="1">
+                                                <div data-row="row-ql02" data-cell="cell-oa98" data-rowspan="1" data-colspan="1">10%</div>
+                                             </td>
+                                             <td data-row="row-ql02" rowspan="1" colspan="1">
+                                                <div data-row="row-ql02" data-cell="cell-t9j9" data-rowspan="1" data-colspan="1">20%</div>
+                                             </td>
+                                             <td data-row="row-ql02" rowspan="1" colspan="1">
+                                                <div data-row="row-ql02" data-cell="cell-zw5i" data-rowspan="1" data-colspan="1">30%</div>
+                                             </td>
+                                             <td data-row="row-ql02" rowspan="1" colspan="1">
+                                                <div data-row="row-ql02" data-cell="cell-1s6l" data-rowspan="1" data-colspan="1">40%</div>
+                                             </td>
+                                          </tr>
+                                          <tr data-row="row-6hsp">
+                                             <td data-row="row-6hsp" rowspan="1" colspan="1">
+                                                <div data-row="row-6hsp" data-cell="cell-8npy" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-6hsp" rowspan="1" colspan="1">
+                                                <div data-row="row-6hsp" data-cell="cell-coh4" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-6hsp" rowspan="1" colspan="1">
+                                                <div data-row="row-6hsp" data-cell="cell-a55q" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-6hsp" rowspan="1" colspan="1">
+                                                <div data-row="row-6hsp" data-cell="cell-rbuz" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-6hsp" rowspan="1" colspan="1">
+                                                <div data-row="row-6hsp" data-cell="cell-wagx" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                          </tr>
+                                          <tr data-row="row-7fd3">
+                                             <td data-row="row-7fd3" rowspan="1" colspan="1">
+                                                <div data-row="row-7fd3" data-cell="cell-nyjd" data-rowspan="1" data-colspan="1">CGST</div>
+                                             </td>
+                                             <td data-row="row-7fd3" rowspan="1" colspan="1">
+                                                <div data-row="row-7fd3" data-cell="cell-5e5x" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-7fd3" rowspan="1" colspan="1">
+                                                <div data-row="row-7fd3" data-cell="cell-1gjh" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-7fd3" rowspan="1" colspan="1">
+                                                <div data-row="row-7fd3" data-cell="cell-7av7" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-7fd3" rowspan="1" colspan="1">
+                                                <div data-row="row-7fd3" data-cell="cell-d6q1" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                          </tr>
+                                          <tr data-row="row-tio8">
+                                             <td data-row="row-tio8" rowspan="1" colspan="1">
+                                                <div data-row="row-tio8" data-cell="cell-f2wx" data-rowspan="1" data-colspan="1">SGST</div>
+                                             </td>
+                                             <td data-row="row-tio8" rowspan="1" colspan="1">
+                                                <div data-row="row-tio8" data-cell="cell-tv1p" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-tio8" rowspan="1" colspan="1">
+                                                <div data-row="row-tio8" data-cell="cell-l1wy" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-tio8" rowspan="1" colspan="1">
+                                                <div data-row="row-tio8" data-cell="cell-p1pa" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-tio8" rowspan="1" colspan="1">
+                                                <div data-row="row-tio8" data-cell="cell-x5jh" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                          </tr>
+                                          <tr data-row="row-9rmp">
+                                             <td data-row="row-9rmp" rowspan="1" colspan="1">
+                                                <div data-row="row-9rmp" data-cell="cell-zbad" data-rowspan="1" data-colspan="1">IGST</div>
+                                             </td>
+                                             <td data-row="row-9rmp" rowspan="1" colspan="1">
+                                                <div data-row="row-9rmp" data-cell="cell-3n95" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-9rmp" rowspan="1" colspan="1">
+                                                <div data-row="row-9rmp" data-cell="cell-mokv" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-9rmp" rowspan="1" colspan="1">
+                                                <div data-row="row-9rmp" data-cell="cell-g86g" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                             <td data-row="row-9rmp" rowspan="1" colspan="1">
+                                                <div data-row="row-9rmp" data-cell="cell-llq5" data-rowspan="1" data-colspan="1"><br></div>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </div>
+                                 <p><br></p>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-table>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-mathematics _ngcontent-slo-c373="" _nghost-slo-c372="" class="ng-star-inserted">
+                           <!---->
+                           <div _ngcontent-slo-c372="" appmathjax="" class="css-reset ql-editor ng-star-inserted" style="padding-top: 10px; padding-bottom: 10px;">
+                              <p><span style="color: rgb(35, 38, 41);">These render differently. For example, type the following to show&nbsp;</span><em style="color: rgb(35, 38, 41);">inline</em><span style="color: rgb(35, 38, 41);">&nbsp;mode:</span></p>
+                              <p class="ql-align-center"><br></p>
+                              <p class="ql-align-center">
+                                 <span class="MathJax_Preview" style="color: inherit; display: none;"></span>
+                                 <span class="mjx-chtml MJXc-display" style="text-align: center;">
+                                    <span id="MathJax-Element-6-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;><munderover><mo>&amp;#x2211;</mo><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi>i</mi><mo>=</mo><mn>0</mn></mrow><mi>n</mi></munderover><msup><mi>i</mi><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mo stretchy=&quot;false&quot;>(</mo><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mi>n</mi><mo stretchy=&quot;false&quot;>)</mo><mo stretchy=&quot;false&quot;>(</mo><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy=&quot;false&quot;>)</mo></mrow><mn>6</mn></mfrac></math>" role="presentation" style="font-size: 119%; text-align: center; position: relative;">
+                                       <span id="MJXc-Node-151" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-152" class="mjx-mrow"><span id="MJXc-Node-153" class="mjx-munderover"><span class="mjx-itable"><span class="mjx-row"><span class="mjx-cell"><span class="mjx-stack"><span class="mjx-over" style="font-size: 70.7%; padding-bottom: 0.247em; padding-top: 0.141em; padding-left: 0.721em;"><span id="MJXc-Node-160" class="mjx-mi" style=""><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.197em; padding-bottom: 0.262em;">n</span></span></span><span class="mjx-op"><span id="MJXc-Node-154" class="mjx-mo"><span class="mjx-char MJXc-TeX-size2-R" style="padding-top: 0.714em; padding-bottom: 0.714em;">∑</span></span></span></span></span></span><span class="mjx-row"><span class="mjx-under" style="font-size: 70.7%; padding-top: 0.236em; padding-bottom: 0.141em; padding-left: 0.21em;"><span id="MJXc-Node-155" class="mjx-texatom" style=""><span id="MJXc-Node-156" class="mjx-mrow"><span id="MJXc-Node-157" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.456em; padding-bottom: 0.262em;">i</span></span><span id="MJXc-Node-158" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.068em; padding-bottom: 0.326em;">=</span></span><span id="MJXc-Node-159" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.391em;">0</span></span></span></span></span></span></span></span><span id="MJXc-Node-161" class="mjx-msubsup MJXc-space1"><span class="mjx-base"><span id="MJXc-Node-162" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.456em; padding-bottom: 0.262em;">i</span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.584em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-163" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.326em;">2</span></span></span></span><span id="MJXc-Node-164" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.068em; padding-bottom: 0.326em;">=</span></span><span id="MJXc-Node-165" class="mjx-mfrac MJXc-space3"><span class="mjx-box MJXc-stacked" style="width: 7.39em; padding: 0px 0.12em;"><span class="mjx-numerator" style="width: 7.39em; top: -1.639em;"><span id="MJXc-Node-166" class="mjx-mrow"><span id="MJXc-Node-167" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.456em; padding-bottom: 0.585em;">(</span></span><span id="MJXc-Node-168" class="mjx-msubsup"><span class="mjx-base"><span id="MJXc-Node-169" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.197em; padding-bottom: 0.262em;">n</span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-170" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.326em;">2</span></span></span></span><span id="MJXc-Node-171" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.326em; padding-bottom: 0.456em;">+</span></span><span id="MJXc-Node-172" class="mjx-mi MJXc-space2"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.197em; padding-bottom: 0.262em;">n</span></span><span id="MJXc-Node-173" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.456em; padding-bottom: 0.585em;">)</span></span><span id="MJXc-Node-174" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.456em; padding-bottom: 0.585em;">(</span></span><span id="MJXc-Node-175" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.326em;">2</span></span><span id="MJXc-Node-176" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.197em; padding-bottom: 0.262em;">n</span></span><span id="MJXc-Node-177" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.326em; padding-bottom: 0.456em;">+</span></span><span id="MJXc-Node-178" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.326em;">1</span></span><span id="MJXc-Node-179" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.456em; padding-bottom: 0.585em;">)</span></span></span></span><span class="mjx-denominator" style="width: 7.39em; bottom: -0.75em;"><span id="MJXc-Node-180" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.391em; padding-bottom: 0.391em;">6</span></span></span><span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.29em; width: 7.39em;"></span></span><span class="mjx-vsize" style="height: 2.389em; vertical-align: -0.75em;"></span></span></span></span>
+                                       <span class="MJX_Assistive_MathML MJX_Assistive_MathML_Block" role="presentation">
+                                          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                                             <munderover>
+                                                <mo>∑</mo>
+                                                <mrow class="MJX-TeXAtom-ORD">
+                                                   <mi>i</mi>
+                                                   <mo>=</mo>
+                                                   <mn>0</mn>
+                                                </mrow>
+                                                <mi>n</mi>
+                                             </munderover>
+                                             <msup>
+                                                <mi>i</mi>
+                                                <mn>2</mn>
+                                             </msup>
+                                             <mo>=</mo>
+                                             <mfrac>
+                                                <mrow>
+                                                   <mo stretchy="false">(</mo>
+                                                   <msup>
+                                                      <mi>n</mi>
+                                                      <mn>2</mn>
+                                                   </msup>
+                                                   <mo>+</mo>
+                                                   <mi>n</mi>
+                                                   <mo stretchy="false">)</mo>
+                                                   <mo stretchy="false">(</mo>
+                                                   <mn>2</mn>
+                                                   <mi>n</mi>
+                                                   <mo>+</mo>
+                                                   <mn>1</mn>
+                                                   <mo stretchy="false">)</mo>
+                                                </mrow>
+                                                <mn>6</mn>
+                                             </mfrac>
+                                          </math>
+                                       </span>
+                                    </span>
+                                 </span>
+                                 <script type="math/tex; mode=display" id="MathJax-Element-6">\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}</script>
+                              </p>
+                           </div>
+                           <!----><!---->
+                        </app-fn-mathematics>
+                        <!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-pie-chart _ngcontent-slo-c373="" _nghost-slo-c363="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c363="" id="pie-chart" class="fn-preview m-0-auto">
+                              <div _ngcontent-slo-c363="" style="padding-top: 10px; padding-bottom: 10px;">
+                                 <div _ngcontent-slo-c363="" id="bar_chart" charttype="PieChart" appgooglechart="" class="ng-star-inserted">
+                                    <div style="position: relative;">
+                                       <div dir="ltr" style="position: relative; width: 866px; height: 500px;">
+                                          <div aria-label="A chart." style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;">
+                                             <svg width="866" height="500" aria-label="A chart." style="overflow: hidden;">
+                                                <defs id="_ABSTRACT_RENDERER_ID_372"></defs>
+                                                <rect x="0" y="0" width="866" height="500" stroke="none" stroke-width="0" fill="#ffffff"></rect>
+                                                <g>
+                                                   <text text-anchor="start" x="158" y="70.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">Hours of the day</text>
+                                                   <rect x="158" y="59" width="550" height="14" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                </g>
+                                                <g>
+                                                   <path d="M433,251L433,97A154,154,0,0,1,489.6911811134404,394.18557882679073L433,251A0,0,0,0,0,433,251" stroke="#ffffff" stroke-width="1" fill="#ff0000"></path>
+                                                   <text text-anchor="start" x="541.6598831128533" y="232.50137589328637" font-family="Arial" font-size="14" stroke="none" stroke-width="0" fill="#ffffff">44%</text>
+                                                </g>
+                                                <g>
+                                                   <path d="M433,251L281.7277633877819,279.85672244620156A154,154,0,0,1,433,97L433,251A0,0,0,0,0,433,251" stroke="#ffffff" stroke-width="1" fill="#9a53d5"></path>
+                                                   <text text-anchor="start" x="322.9121230281105" y="176.40919503310127" font-family="Arial" font-size="14" stroke="none" stroke-width="0" fill="#ffffff">28%</text>
+                                                </g>
+                                                <g>
+                                                   <path d="M433,251L413.6986820310971,403.7856640024296A154,154,0,0,1,281.7277633877819,279.85672244620156L433,251A0,0,0,0,0,433,251" stroke="#ffffff" stroke-width="1" fill="#00ff00"></path>
+                                                   <text text-anchor="start" x="333.28864559562226" y="347.1733219284083" font-family="Arial" font-size="14" stroke="none" stroke-width="0" fill="#ffffff">20%</text>
+                                                </g>
+                                                <g>
+                                                   <path d="M433,251L489.6911811134404,394.18557882679073A154,154,0,0,1,413.6986820310971,403.7856640024296L433,251A0,0,0,0,0,433,251" stroke="#ffffff" stroke-width="1" fill="#0000ff"></path>
+                                                   <text text-anchor="start" x="439.4825046336422" y="386.372458872056" font-family="Arial" font-size="14" stroke="none" stroke-width="0" fill="#ffffff">8%</text>
+                                                </g>
+                                                <g></g>
+                                             </svg>
+                                             <div aria-label="A tabular representation of the data in the chart." style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">
+                                                <table>
+                                                   <thead>
+                                                      <tr>
+                                                         <th>Task</th>
+                                                         <th>Hours Per Day</th>
+                                                      </tr>
+                                                   </thead>
+                                                   <tbody>
+                                                      <tr>
+                                                         <td>Work</td>
+                                                         <td>11</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Eat</td>
+                                                         <td>2</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Watch TV</td>
+                                                         <td>5</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Sleep</td>
+                                                         <td>7</td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div aria-hidden="true" style="display: none; position: absolute; top: 510px; left: 876px; white-space: nowrap; font-family: Arial; font-size: 14px; font-weight: bold;">Hours of the day</div>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                                 <!---->
+                              </div>
+                           </div>
+                        </app-fn-pie-chart>
+                        <!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-bar-chart _ngcontent-slo-c373="" _nghost-slo-c361="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c361="" id="bar-chart" class="preview-inline-text fn-preview text-center m-0-auto">
+                              <div _ngcontent-slo-c361="" style="padding-top: 10px; padding-bottom: 10px;">
+                                 <div _ngcontent-slo-c361="" id="bar_chart" charttype="BarChart" appgooglechart="" class="ng-star-inserted">
+                                    <div style="position: relative;">
+                                       <div dir="ltr" style="position: relative; width: 866px; height: 500px;">
+                                          <div aria-label="A chart." style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;">
+                                             <svg width="866" height="500" aria-label="A chart." style="overflow: hidden;">
+                                                <defs id="_ABSTRACT_RENDERER_ID_373">
+                                                   <clipPath id="_ABSTRACT_RENDERER_ID_374">
+                                                      <rect x="158" y="96" width="550" height="309"></rect>
+                                                   </clipPath>
+                                                </defs>
+                                                <rect x="0" y="0" width="866" height="500" stroke="none" stroke-width="0" fill="#ffffff"></rect>
+                                                <g>
+                                                   <text text-anchor="start" x="158" y="70.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">Population of Largest U.S. Cities</text>
+                                                   <rect x="158" y="59" width="550" height="14" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                </g>
+                                                <g>
+                                                   <rect x="158" y="96" width="550" height="309" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                   <g clip-path="url(https://jagran-fe-test-local-zi87i.ondigitalocean.app/jagran--test/template/7eca84c7-67f5-4925-85fc-d4b05152b260#_ABSTRACT_RENDERER_ID_374)">
+                                                      <g>
+                                                         <rect x="158" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="268" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="378" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="487" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="597" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="707" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="213" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="323" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="433" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="542" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="652" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                      </g>
+                                                      <g>
+                                                         <rect x="159" y="111" width="54" height="24" stroke="none" stroke-width="0" fill="#ffd155"></rect>
+                                                         <rect x="159" y="188" width="274" height="24" stroke="none" stroke-width="0" fill="#ffd155"></rect>
+                                                         <rect x="159" y="265" width="164" height="24" stroke="none" stroke-width="0" fill="#ffd155"></rect>
+                                                         <rect x="159" y="342" width="548" height="24" stroke="none" stroke-width="0" fill="#ffd155"></rect>
+                                                         <rect x="159" y="136" width="48" height="23" stroke="none" stroke-width="0" fill="#6206ff"></rect>
+                                                         <rect x="159" y="213" width="26" height="23" stroke="none" stroke-width="0" fill="#6206ff"></rect>
+                                                         <rect x="159" y="290" width="54" height="23" stroke="none" stroke-width="0" fill="#6206ff"></rect>
+                                                         <rect x="159" y="367" width="219" height="23" stroke="none" stroke-width="0" fill="#6206ff"></rect>
+                                                      </g>
+                                                      <g>
+                                                         <rect x="158" y="96" width="1" height="309" stroke="none" stroke-width="0" fill="#333333"></rect>
+                                                      </g>
+                                                   </g>
+                                                   <g></g>
+                                                   <g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="158.5" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">0</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="268.3" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">2,000</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="378.1" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">4,000</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="487.9" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">6,000</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="597.7" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">8,000</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="707.5" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">10,000</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="139.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">NYC</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="216.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">Los A.</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="293.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">Chicago</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="370.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">India</text>
+                                                      </g>
+                                                   </g>
+                                                </g>
+                                                <g>
+                                                   <g>
+                                                      <text text-anchor="middle" x="433" y="468.3" font-family="Arial" font-size="18" font-weight="bold" font-style="italic" stroke="none" stroke-width="0" fill="#4d4d4d">Total Population</text>
+                                                      <rect x="158" y="453" width="550" height="18" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                   </g>
+                                                   <g>
+                                                      <text text-anchor="middle" x="49.4" y="250.5" font-family="Arial" font-size="14" font-weight="bold" font-style="italic" transform="rotate(-90 49.4 250.5)" stroke="none" stroke-width="0" fill="#848484">City</text>
+                                                      <path d="M37.49999999999999,405L37.50000000000001,96L51.50000000000001,96L51.49999999999999,405Z" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></path>
+                                                   </g>
+                                                </g>
+                                                <g></g>
+                                             </svg>
+                                             <div aria-label="A tabular representation of the data in the chart." style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">
+                                                <table>
+                                                   <thead>
+                                                      <tr>
+                                                         <th>City</th>
+                                                         <th>2010 Population </th>
+                                                         <th>2000 Population</th>
+                                                      </tr>
+                                                   </thead>
+                                                   <tbody>
+                                                      <tr>
+                                                         <td>NYC</td>
+                                                         <td>1,000</td>
+                                                         <td>900</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Los A.</td>
+                                                         <td>5,000</td>
+                                                         <td>500</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Chicago</td>
+                                                         <td>3,000</td>
+                                                         <td>1,000</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>India</td>
+                                                         <td>10,000</td>
+                                                         <td>4,000</td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div aria-hidden="true" style="display: none; position: absolute; top: 510px; left: 876px; white-space: nowrap; font-family: Arial; font-size: 14px; font-weight: bold;">Population of Largest U.S. Cities</div>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                                 <!---->
+                              </div>
+                           </div>
+                        </app-fn-bar-chart>
+                        <!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-poll _ngcontent-slo-c373="" _nghost-slo-c370="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c370="" class="fn-image fn-preview ng-star-inserted">
+                              <div _ngcontent-slo-c370="" style="border: 3px solid #9db6c5; padding-left: 10px; padding-right: 10px;">
+                                 <div _ngcontent-slo-c370="" class="css-reset ql-editor jg-py-12px jg-px-0px jg-border-b-2px">
+                                    <p><strong style="font-size: 24px;">What is HTML?</strong></p>
+                                 </div>
+                                 <div _ngcontent-slo-c370="" class="jg-mb-10px ng-star-inserted">
+                                    <input _ngcontent-slo-c370="" type="radio" name="enums" class="jg-radio ng-untouched ng-pristine ng-valid" id="poll_answer_pre_1689764051785">
+                                    <label _ngcontent-slo-c370="" class="jg-d-flex jg-mr-3" for="poll_answer_pre_1689764051785">
+                                       <p>Hyper Text Markup Language </p>
+                                    </label>
+                                 </div>
+                                 <div _ngcontent-slo-c370="" class="jg-mb-10px ng-star-inserted">
+                                    <input _ngcontent-slo-c370="" type="radio" name="enums" class="jg-radio ng-untouched ng-pristine ng-valid" id="poll_answer_pre_1689764116322">
+                                    <label _ngcontent-slo-c370="" class="jg-d-flex jg-mr-3" for="poll_answer_pre_1689764116322">
+                                       <p><span style="color: rgb(45, 45, 74);">Hyper Text Marker Language </span></p>
+                                    </label>
+                                 </div>
+                                 <!----><button _ngcontent-slo-c370="" class="jg-vote-btn" disabled="">Vote</button>
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-poll>
+                        <!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-line-chart _ngcontent-slo-c373="" _nghost-slo-c362="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c362="" id="line-chart" class="fn-preview m-0-auto">
+                              <div _ngcontent-slo-c362="" style="padding-top: 10px; padding-bottom: 10px;">
+                                 <div _ngcontent-slo-c362="" id="bar_chart" charttype="LineChart" appgooglechart="" class="ng-star-inserted">
+                                    <div style="position: relative;">
+                                       <div dir="ltr" style="position: relative; width: 866px; height: 500px;">
+                                          <div aria-label="A chart." style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;">
+                                             <svg width="866" height="500" aria-label="A chart." style="overflow: hidden;">
+                                                <defs id="_ABSTRACT_RENDERER_ID_375">
+                                                   <clipPath id="_ABSTRACT_RENDERER_ID_376">
+                                                      <rect x="158" y="96" width="550" height="309"></rect>
+                                                   </clipPath>
+                                                </defs>
+                                                <rect x="0" y="0" width="866" height="500" stroke="none" stroke-width="0" fill="#ffffff"></rect>
+                                                <g>
+                                                   <text text-anchor="start" x="158" y="70.9" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">Company Performance</text>
+                                                   <rect x="158" y="59" width="550" height="14" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                </g>
+                                                <g>
+                                                   <rect x="158" y="96" width="550" height="309" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                   <g clip-path="url(https://jagran-fe-test-local-zi87i.ondigitalocean.app/jagran--test/template/7eca84c7-67f5-4925-85fc-d4b05152b260#_ABSTRACT_RENDERER_ID_376)">
+                                                      <g>
+                                                         <rect x="158" y="404" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="342" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="281" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="219" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="158" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="96" width="550" height="1" stroke="none" stroke-width="0" fill="#cccccc"></rect>
+                                                         <rect x="158" y="373" width="550" height="1" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="158" y="312" width="550" height="1" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="158" y="250" width="550" height="1" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="158" y="188" width="550" height="1" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                         <rect x="158" y="127" width="550" height="1" stroke="none" stroke-width="0" fill="#ebebeb"></rect>
+                                                      </g>
+                                                      <g>
+                                                         <rect x="158" y="404" width="550" height="1" stroke="none" stroke-width="0" fill="#333333"></rect>
+                                                      </g>
+                                                      <g>
+                                                         <path d="M227.125,188.9C227.125,188.9,318.625,286.4333333333436,364.375,312.1C410.125,337.7666666666564,455.87500000000006,373.7,501.625,342.9C547.375,312.1,638.875,127.30000000000001,638.875,127.30000000000001" stroke="#ff0000" stroke-width="2" fill-opacity="1" fill="none"></path>
+                                                         <path d="M227.125,158.1C227.125,158.1,318.625,127.30000000000001,364.375,127.30000000000001C410.125,127.30000000000001,455.87500000000006,137.56666666665637,501.625,158.1C547.375,178.63333333334361,638.875,250.5,638.875,250.5" stroke="#00ff00" stroke-width="2" fill-opacity="1" fill="none"></path>
+                                                      </g>
+                                                   </g>
+                                                   <g></g>
+                                                   <g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="227.125" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">2004</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="364.375" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">2005</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="501.625" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">2006</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="middle" x="638.875" y="422.2" font-family="Arial" font-size="12" font-weight="bold" stroke="none" stroke-width="0" fill="#4d4d4d">2007</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="409.4" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">0</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="347.79999999999995" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">200</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="286.2" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">400</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="224.6" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">600</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="163" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">800</text>
+                                                      </g>
+                                                      <g>
+                                                         <text text-anchor="end" x="144" y="101.4" font-family="Arial" font-size="14" font-weight="bold" stroke="none" stroke-width="0" fill="#848484">1,000</text>
+                                                      </g>
+                                                   </g>
+                                                </g>
+                                                <g>
+                                                   <g>
+                                                      <text text-anchor="middle" x="433" y="468.3" font-family="Arial" font-size="18" font-weight="bold" font-style="italic" stroke="none" stroke-width="0" fill="#4d4d4d">Year</text>
+                                                      <rect x="158" y="453" width="550" height="18" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></rect>
+                                                   </g>
+                                                   <g>
+                                                      <text text-anchor="middle" x="59.4" y="250.5" font-family="Arial" font-size="14" font-weight="bold" font-style="italic" transform="rotate(-90 59.4 250.5)" stroke="none" stroke-width="0" fill="#848484">Amount</text>
+                                                      <path d="M47.49999999999999,405L47.50000000000001,96L61.50000000000001,96L61.49999999999999,405Z" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff"></path>
+                                                   </g>
+                                                </g>
+                                                <g></g>
+                                             </svg>
+                                             <div aria-label="A tabular representation of the data in the chart." style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">
+                                                <table>
+                                                   <thead>
+                                                      <tr>
+                                                         <th>Amount</th>
+                                                         <th>Sales</th>
+                                                         <th>Expenses</th>
+                                                      </tr>
+                                                   </thead>
+                                                   <tbody>
+                                                      <tr>
+                                                         <td>2004</td>
+                                                         <td>700</td>
+                                                         <td>800</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>2005</td>
+                                                         <td>300</td>
+                                                         <td>900</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>2006</td>
+                                                         <td>200</td>
+                                                         <td>800</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>2007</td>
+                                                         <td>900</td>
+                                                         <td>500</td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div aria-hidden="true" style="display: none; position: absolute; top: 510px; left: 876px; white-space: nowrap; font-family: Arial; font-size: 14px; font-weight: bold;">Company Performance</div>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                                 <!---->
+                              </div>
+                           </div>
+                        </app-fn-line-chart>
+                        <!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <app-pv-html-prv-selector _ngcontent-slo-c374="" class="position-relative d-block ng-star-inserted" _nghost-slo-c373="">
+                  <div _ngcontent-slo-c373="" style="margin-top: 10px; margin-bottom: 10px;">
+                     <div _ngcontent-slo-c373="">
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                        <app-fn-audio _ngcontent-slo-c373="" _nghost-slo-c351="" class="ng-star-inserted">
+                           <div _ngcontent-slo-c351="" class="fn-audio fn-preview px-0 ng-star-inserted">
+                              <div _ngcontent-slo-c351="">
+                                 <!---->
+                                 <div _ngcontent-slo-c351="" class="jg-d-flex justify-content-between">
+                                    <div _ngcontent-slo-c351="" class="jg-d-flex">
+                                       <audio _ngcontent-slo-c351="" preload="auto" id="fn-audio_Gg1RUW" src="https://storage.googleapis.com/dev-cms-backend-media/2023-07-19/template/image/1689764509723-063e20e8-4b52-4e5d-b816-4dffcda91c64.mp3"></audio>
+                                       <div _ngcontent-slo-c351="" class="c-pointer text-232428">
+                                          <span _ngcontent-slo-c351="" class="ng-star-inserted">
+                                             <svg viewBox="64 64 896 896" focusable="false" data-icon="play-circle" width="40px" height="40px" fill="currentColor" aria-hidden="true">
+                                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z">
+                                                </path>
+                                                <path d="M719.4 499.1l-296.1-215A15.9 15.9 0 00398 297v430c0 13.1 14.8 20.5 25.3 12.9l296.1-215a15.9 15.9 0 000-25.8zm-257.6 134V390.9L628.5 512 461.8 633.1z">
+                                                </path>
+                                             </svg>
+                                          </span>
+                                          <!----><!----><!---->
+                                       </div>
+                                       <div _ngcontent-slo-c351="" class="audio-details">
+                                          <span _ngcontent-slo-c351="" class="audio-title">National Anthem </span>
+                                          <h5 _ngcontent-slo-c351="" class="margin-b-0"> Jana Gana Mana </h5>
+                                       </div>
+                                    </div>
+                                    <div _ngcontent-slo-c351="" class="audio-desc"><span _ngcontent-slo-c351="" class="audio-date">12-03-23</span><span _ngcontent-slo-c351="" class="audio-tag"># #national</span></div>
+                                 </div>
+                                 <!---->
+                              </div>
+                           </div>
+                           <!---->
+                        </app-fn-audio>
+                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+               </app-pv-html-prv-selector>
+               <!---->
+            </div>
+         </div>
+         <!----><!----><!---->
+      </div>
+   </div>
+   <!---->
+</div>` };
