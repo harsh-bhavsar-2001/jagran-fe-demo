@@ -42767,7 +42767,7 @@ th {
   /* word-wrap: break-word; */
 }
 
-.ql-editor>* {
+.ql-editor>*:not(img, svg) {
   cursor: text;
 }
 
@@ -44179,7 +44179,7 @@ table td {
   /* word-wrap: break-word; */
 }
 
-.ql-editor>* {
+.ql-editor>*:not(img, svg) {
   cursor: text;
 }
 
@@ -47078,7 +47078,7 @@ video {
 }
 
 .BigTitle_bigTitle__title__rZp9D a, a:hover {
-  color: #fff !important;
+  /* color: #fff !important; */
   background-size: 0 0;
 }
 

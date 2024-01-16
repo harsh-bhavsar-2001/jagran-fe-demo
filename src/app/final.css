@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import "./style/jg.css";
+@import "./style/quill.css";
+@import "./style/extra.css";
+@import "./style/after-before.css";
+@import "./style/slider.css";

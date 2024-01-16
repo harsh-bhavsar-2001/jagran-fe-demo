@@ -1,11 +1,10 @@
 'use client';
-import '../globals.css';
 import React, { useState } from "react";
 import { useParams } from 'next/navigation'
 import axios from 'axios';
 
-
-// import '../final.css';
+// import '../globals.css';
+import '../final.css';
 
 export default function BlogDetailLayout({ children }) {
 
@@ -15,6 +14,7 @@ export default function BlogDetailLayout({ children }) {
   const TargetList = {
     HINDI_JAGRAN: '616a9df6-9ffa-4a13-81d8-c65ea2f92d6b',
     ENGLISH_JAGRAN: '82d8e272-d6f2-4225-9629-4a4012a43e19',
+    JAGRAN_TEST: 'a8ca2f19-2c5b-43c2-805e-8979101a3953',
     JAGRAN_DEV: 'd5867ee8-34b5-4923-87b4-a7ba35ceaa06'
   }
 
@@ -32,7 +32,7 @@ export default function BlogDetailLayout({ children }) {
       const url = `https://dev-api.jnm.digital/comment/api/v1/comment`;
       const headers = {
         Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoieVh1V3d0anVVYk43RkQ1ZlZBdzRHeVRNNmNTYzlBIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSJ9.3pC9tfkPNrQHE1GDYKHVC-gnWViFTyUdALIbS34cV94',
-        'X-Target': TargetList.ENGLISH_JAGRAN
+        'X-Target': TargetList.JAGRAN_TEST
       }
 
       const body = {
@@ -67,7 +67,8 @@ export default function BlogDetailLayout({ children }) {
 
   return (
     <>
-      <header id="mainHeader" style={{ 'zIndex': '999' }}>
+      {children}
+      {/* <header id="mainHeader" style={{ 'zIndex': '999' }}>
         <script src="https://www.gstatic.com/charts/loader.js"></script>
 
 
@@ -169,10 +170,10 @@ export default function BlogDetailLayout({ children }) {
         </div>
 
       </header>
-      <div className="header-space"></div>
+      <div className="header-space"></div> */}
 
       {/* <!--  BLOF POST START --> */}
-      <div className="container">
+      {/* <div className="container">
         <div className="mainArticle">
           <div className="main-col mainArticle__left">
             {children}
@@ -208,10 +209,10 @@ export default function BlogDetailLayout({ children }) {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* <!--  BLOF POST END --> */}
 
-      <div className="GutterBox">
+      {/* <div className="GutterBox">
         <div className="GutterAdsLHS webAds advertiseTxt" style={{ zIndex: 9999 }}>
           <div id="target-20" className="adsView">
             <div id="details_lhs_160x600" data-google-query-id="COL_9ffH0YADFc72UQodeaMHaQ">
@@ -243,15 +244,15 @@ export default function BlogDetailLayout({ children }) {
           <textarea value={textValue} rows="1" onChange={changeHandler} placeholder="Enter comment" className="_1oA04"></textarea>
           <button type="button" onClick={onCommentClick} className="_1BtHB">Send</button>
         </form>
-      </div>
+      </div> */}
 
       {/* <!-- FOOTER START --> */}
-      <footer>
+      {/* <footer>
         <img className='footer-new-image' src="https://storage.googleapis.com/dev-cms-backend-media/2023-08-10/template/image/1691651865544-5e133e03-e13d-47f1-8bef-132602de8be5.png"
         />
-      </footer>
+      </footer> */}
 
-      <div id="snackbar">Comment added succesfully</div>
+      {/* <div id="snackbar">Comment added succesfully</div> */}
       {/* <!-- FOOTER END --> */}
     </>
   )

@@ -13,6 +13,7 @@ const BlogDetailPage = () => {
    const TargetList = {
       HINDI_JAGRAN: '616a9df6-9ffa-4a13-81d8-c65ea2f92d6b',
       ENGLISH_JAGRAN: '82d8e272-d6f2-4225-9629-4a4012a43e19',
+      JAGRAN_TEST: 'a8ca2f19-2c5b-43c2-805e-8979101a3953',
       JAGRAN_DEV: 'd5867ee8-34b5-4923-87b4-a7ba35ceaa06'
    }
 
@@ -70,7 +71,7 @@ const BlogDetailPage = () => {
 
          const headers = {
             Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoieVh1V3d0anVVYk43RkQ1ZlZBdzRHeVRNNmNTYzlBIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSJ9.3pC9tfkPNrQHE1GDYKHVC-gnWViFTyUdALIbS34cV94',
-            'X-Target': TargetList.ENGLISH_JAGRAN
+            'X-Target': TargetList.JAGRAN_TEST
          }
 
          const res = await fetch(url, { headers, 'Access-Control-Allow-Origin': '*' })
