@@ -176,7 +176,7 @@ const BlogDetailPage = () => {
                <ul className="jg_breadcrumb-ul">
                   <li className="jg_breadcrumb-li"><a href="#">Home</a></li>
                   {data?.articlePublish?.art_cat?.cat_name ? <li className="jg_breadcrumb-li"><a href="#">{data?.articlePublish?.art_cat?.cat_name}</a></li> : ''}
-                  {data?.articlePublish?.art_cat?.subcat_name ? <li className="jg_breadcrumb-li"><a href="#">{data?.articlePublish?.art_cat?.subcat_name}</a></li> : ''}
+                  {data?.articlePublish?.art_subcat?.subcat_name ? <li className="jg_breadcrumb-li"><a href="#">{data?.articlePublish?.art_subcat?.subcat_name}</a></li> : ''}
                </ul>
             </div>
             {data?.articlePublishSetting?.artpset_fix_controls?.featured_label?.extra?.label ?
