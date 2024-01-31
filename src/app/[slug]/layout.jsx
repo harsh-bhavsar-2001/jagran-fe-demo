@@ -31,8 +31,8 @@ export default function BlogDetailLayout({ children }) {
     try {
       const url = `https://dev-api.jnm.digital/comment/api/v1/comment`;
       const headers = {
-        Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoieVh1V3d0anVVYk43RkQ1ZlZBdzRHeVRNNmNTYzlBIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSJ9.3pC9tfkPNrQHE1GDYKHVC-gnWViFTyUdALIbS34cV94',
-        'X-Target': TargetList.JAGRAN_TEST
+        Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoiNlllRG5OTW01d1lzN2I3NHk3WjNoSUFudEUzd0owIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSIsInVzZXJfcm9sZSI6InN1cGVyIGFkbWluIn0.UbeZwaqcf7oP2yRMXTVTUgjZdGAxyvWeZxgOm4JQ19s',
+        'X-Target': TargetList.JAGRAN_DEV
       }
 
       const body = {
