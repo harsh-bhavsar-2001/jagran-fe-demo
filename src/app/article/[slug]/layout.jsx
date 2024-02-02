@@ -3,20 +3,13 @@ import React, { useState } from "react";
 import { useParams } from 'next/navigation'
 import axios from 'axios';
 
-// import '../globals.css';
-import '../final.css';
+import { TargetList } from "../../../constants/target";
+import { authToken } from "../../../constants/token";
 
 export default function BlogDetailLayout({ children }) {
 
   const [textValue, setTextValue] = useState("");
   const { slug } = useParams();
-
-  const TargetList = {
-    HINDI_JAGRAN: '616a9df6-9ffa-4a13-81d8-c65ea2f92d6b',
-    ENGLISH_JAGRAN: '82d8e272-d6f2-4225-9629-4a4012a43e19',
-    JAGRAN_TEST: 'a8ca2f19-2c5b-43c2-805e-8979101a3953',
-    JAGRAN_DEV: 'd5867ee8-34b5-4923-87b4-a7ba35ceaa06'
-  }
 
   const onCommentClick = () => {
     if (!textValue) {
@@ -31,7 +24,7 @@ export default function BlogDetailLayout({ children }) {
     try {
       const url = `https://dev-api.jnm.digital/comment/api/v1/comment`;
       const headers = {
-        Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoiNlllRG5OTW01d1lzN2I3NHk3WjNoSUFudEUzd0owIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSIsInVzZXJfcm9sZSI6InN1cGVyIGFkbWluIn0.UbeZwaqcf7oP2yRMXTVTUgjZdGAxyvWeZxgOm4JQ19s',
+        Authorization: authToken,
         'X-Target': TargetList.JAGRAN_DEV
       }
 
@@ -78,7 +71,7 @@ export default function BlogDetailLayout({ children }) {
         href="https://fonts.googleapis.com/css2?family=Mirza:wght@400;500;600;700&amp;display=swap" />
       <link id="font-merriweather" rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap" />
-        
+
       {/* <header id="mainHeader" style={{ 'zIndex': '999' }}>
 
         <div className="Header_topStripContainer__XPz4A centered">

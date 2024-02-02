@@ -1,0 +1,2 @@
+const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoiMUxDaDJjeGw1bThtQWZUVE95QU1MZnJBTXMzbld4IiwidXNlcl9pZCI6IjI0NDRjZmU1LWE1ZGUtNGIzMS04NDMwLWU0NGU3ZjI3NDcyYSIsInVzZXJfZW1haWwiOiJmcm9udGVuZEB5b3BtYWlsLmNvbSIsInVzZXJfcm9sZSI6ImFkbWluIn0.Gdw0k94UNgrccGTmHLkVFVHg5nLdgEH4nRyHatD_mrs';
+export const authToken = `Bearer ${token}`;

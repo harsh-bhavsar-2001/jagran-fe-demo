@@ -3,19 +3,14 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { useParams } from 'next/navigation'
 import { Helmet } from "react-helmet";
+import { TargetList } from '../../../constants/target';
+import { authToken } from '../../../constants/token';
 // import Head from 'next/head';
 // import  Head from "next/document";
 
 const scriptsDemo = "<script id=\"line_chart\" src=\"https://www.gstatic.com/charts/loader.js\"></script><script id=\"line_chart\">var GOOGLE_CHART_LOADED = false;google.charts.load('current', { 'packages': ['barchart', 'piechart', 'linechart'] });google.charts.setOnLoadCallback(scriptLoaded);function  scriptLoaded() {GOOGLE_CHART_LOADED = true;}function drawChart(type = 'PieChart', id = 'piechart', chartData, options) {var data = google.visualization.arrayToDataTable(chartData);var chart = new google.visualization[type](document.getElementById(id));chart.draw(data, options); } function initChart(type, id, chartData, options) {drawChart(type, id, chartData, options)}</script><script id=\"waiting\">function waitForCondition(variable) {function waitFor(result) {if (result) {return result;}return new Promise((resolve) => setTimeout(resolve, 100)).then(() => Promise.resolve(window[variable])).then((res) => waitFor(res));}return waitFor();}</script><script id=\"line_chart\">waitForCondition('GOOGLE_CHART_LOADED').then((res) =>initChart('LineChart','line_chart_S63OEo',[[\"Amount\",\"Sales\",\"Expenses\"],[\"2004\",700,800],[\"2005\",300,900],[\"2006\",200,800],[\"2007\",900,500]],{\"title\":\"Company Performance\",\"display_data\":false,\"curveType\":\"function\",\"legend\":{\"position\":\"none\"},\"colors\":[\"#ff0000\",\"#00ff00\"],\"backgroundColor\":{\"strokeWidth\":0},\"hAxis\":{\"title\":\"Year\",\"minValue\":0,\"textStyle\":{\"bold\":true,\"fontSize\":12,\"color\":\"#4d4d4d\"},\"titleTextStyle\":{\"bold\":true,\"fontSize\":18,\"color\":\"#4d4d4d\"}},\"vAxis\":{\"title\":\"Amount\",\"textStyle\":{\"fontSize\":14,\"bold\":true,\"color\":\"#848484\"},\"titleTextStyle\":{\"fontSize\":14,\"bold\":true,\"color\":\"#848484\"}}}));</script><script id=\"line_chart\">waitForCondition('GOOGLE_CHART_LOADED').then((res) =>initChart('LineChart','line_chart_S63OEo',[[\"Amount\",\"Sales\",\"Expenses\"],[\"2004\",700,800],[\"2005\",300,900],[\"2006\",200,800],[\"2007\",900,500]],{\"title\":\"Company Performance\",\"display_data\":false,\"curveType\":\"function\",\"legend\":{\"position\":\"none\"},\"colors\":[\"#ff0000\",\"#00ff00\"],\"backgroundColor\":{\"strokeWidth\":0},\"hAxis\":{\"title\":\"Year\",\"minValue\":0,\"textStyle\":{\"bold\":true,\"fontSize\":12,\"color\":\"#4d4d4d\"},\"titleTextStyle\":{\"bold\":true,\"fontSize\":18,\"color\":\"#4d4d4d\"}},\"vAxis\":{\"title\":\"Amount\",\"textStyle\":{\"fontSize\":14,\"bold\":true,\"color\":\"#848484\"},\"titleTextStyle\":{\"fontSize\":14,\"bold\":true,\"color\":\"#848484\"}}}));</script>"
 
 const BlogDetailPage = () => {
-
-   const TargetList = {
-      HINDI_JAGRAN: '616a9df6-9ffa-4a13-81d8-c65ea2f92d6b',
-      ENGLISH_JAGRAN: '82d8e272-d6f2-4225-9629-4a4012a43e19',
-      JAGRAN_TEST: 'a8ca2f19-2c5b-43c2-805e-8979101a3953',
-      JAGRAN_DEV: 'd5867ee8-34b5-4923-87b4-a7ba35ceaa06'
-   }
 
    const [createDate, setCreateDate] = useState();
    // const [data, setData] = useState({});
@@ -78,10 +73,10 @@ const BlogDetailPage = () => {
    async function getArticleContent(url) {
       try {
          // const url = `https://dev-api.jnm.digital/content/api/v1/article/publish/${slug}/content?type=design`
-         const url = `https://dev-api.jnm.digital/content/api/v1/article/${slug}/html?type=normal`
+         const url = `https://dev-api.jnm.digital/content/api/v1/article/${slug}/solr?type=normal`
 
          const headers = {
-            Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoiNlllRG5OTW01d1lzN2I3NHk3WjNoSUFudEUzd0owIiwidXNlcl9pZCI6IjJhZDJhOGU2LWI3ZTYtNDczYy1hZTM3LTkxM2FhZjAzM2I2MSIsInVzZXJfZW1haWwiOiJxYUB5b3BtYWlsLmNvbSIsInVzZXJfcm9sZSI6InN1cGVyIGFkbWluIn0.UbeZwaqcf7oP2yRMXTVTUgjZdGAxyvWeZxgOm4JQ19s',
+            Authorization: authToken,
             'X-Target': TargetList.JAGRAN_DEV
          }
 
