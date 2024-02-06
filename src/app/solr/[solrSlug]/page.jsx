@@ -3,6 +3,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { useParams } from 'next/navigation'
 import { TargetList } from '../../../constants/target';
+import { authToken } from '../../../constants/token';
 
 const SolrSlugPage = () => {
 
@@ -49,7 +50,7 @@ const SolrSlugPage = () => {
       const url = `https://dev-api.jnm.digital/content/api/v1/article/${slug}/solr?type=normal`
 
       const headers = {
-        Authorization: "Bearer " + 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoiMUxDaDJjeGw1bThtQWZUVE95QU1MZnJBTXMzbld4IiwidXNlcl9pZCI6IjI0NDRjZmU1LWE1ZGUtNGIzMS04NDMwLWU0NGU3ZjI3NDcyYSIsInVzZXJfZW1haWwiOiJmcm9udGVuZEB5b3BtYWlsLmNvbSIsInVzZXJfcm9sZSI6ImFkbWluIn0.Gdw0k94UNgrccGTmHLkVFVHg5nLdgEH4nRyHatD_mrs',
+        Authorization: authToken,
         'X-Target': TargetList.JAGRAN_DEV
       }
 
