@@ -1,0 +1,33 @@
+- BREADCRUMB => no change
+- FEATURED_HEADLINE => no change
+- LABEL => no change
+- FEATURED_SUMMARY => no change
+- AUTHOR => no change
+- FEATURED_MEDIA => change
+
+- HEADLINE => no change
+- HIGHTLIGHT => no change
+- INLINE_TEXT => no change
+- PARAGRAPH => no change
+- IMAGE => done
+- VIDEO =>
+- DOCUMENT
+- EMBED
+- LINE_BREAK => no change
+- BULLET_POINT => no change
+- BLOCK_QUOTE => no change
+- FAQS => no change
+- EXPAND => no change
+- AUDIO
+- GALLERY
+- PIE_CHART
+- BAR_CHART
+- LINE_CHART
+- TABLE
+- BEFORE_AFTER_IMAGE
+- QUIZ => no change
+- OPINION_POLL => no change
+- ADS => no change
+- RECOMMENDED => no change
+- MATHEMATICS
+- TINY
