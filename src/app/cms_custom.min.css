@@ -81,9 +81,12 @@
     display: block
 }
 
-.jg_m-article .jg-d-flex,
-.jg_m-article .preview-bullet-point li:not([data-list=bullet]),
-.jg_m-article .ql-editor li:not([data-list=bullet]) {
+.jg_m-article .jg-d-flex{
+    display: flex;
+}
+
+.jg_m-article .preview-bullet-point li,
+.jg_m-article .ql-editor li {
     display: flex;
     padding-right: 1.5rem
 }
@@ -114,9 +117,15 @@
 }
 
 .jg_m-article .jg-jc-center,
-.jg_m-article .preview-bullet-point li:not([data-list=bullet]).ql-align-center,
-.jg_m-article .ql-editor li:not([data-list=bullet]).ql-align-center {
+.jg_m-article .preview-bullet-point li.ql-align-center,
+.jg_m-article .ql-editor li.ql-align-center {
     justify-content: center
+}
+
+.jg_m-article .jg-jc-right,
+.jg_m-article .preview-bullet-point li.ql-align-right,
+.jg_m-article .ql-editor li.ql-align-right {
+    justify-content: flex-end
 }
 
 .jg_m-article .jg-ai-center,
@@ -660,11 +669,11 @@ article.limited .jg_m-article p {
     list-style-type: none
 }
 
-.jg_m-article .preview-bullet-point li[data-list=bullet]>.ql-ui:before,
+/* .jg_m-article .preview-bullet-point li[data-list=bullet]>.ql-ui:before,
 .jg_m-article .ql-editor li[data-list=bullet]>.ql-ui:before,
 .jg_m-article .ql-editor ul>li::before {
     content:"${" \\2022 "}"
-}
+} */
 
 .jg_m-article .ql-editor ul[data-checked=false]>li *,
 .jg_m-article .ql-editor ul[data-checked=true]>li * {
@@ -1620,11 +1629,14 @@ article.limited .jg_m-article p {
 .jg_m-article .preview-bullet-point li[data-list=star],
 .jg_m-article .preview-bullet-point li[data-list=thumb],
 .jg_m-article .preview-bullet-point li[data-list=triangle],
+.jg_m-article .preview-bullet-point li[data-list=bullet],
 .jg_m-article .ql-editor li[data-list=arrow]::before,
 .jg_m-article .ql-editor li[data-list=checkMark]::before,
 .jg_m-article .ql-editor li[data-list=star],
 .jg_m-article .ql-editor li[data-list=thumb],
-.jg_m-article .ql-editor li[data-list=triangle] {
+.jg_m-article .ql-editor li[data-list=triangle],
+.jg_m-article .ql-editor li[data-list=bullet]
+ {
     list-style-type: none;
     margin-left: 5px
 }
@@ -1645,10 +1657,12 @@ article.limited .jg_m-article p {
     background-repeat: no-repeat
 }
 
+.jg_m-article .preview-bullet-point li[data-list=bullet]::before,
 .jg_m-article .preview-bullet-point li[data-list=arrow]::before,
 .jg_m-article .preview-bullet-point li[data-list=checkMark]::before,
 .jg_m-article .preview-bullet-point li[data-list=star]::before,
 .jg_m-article .preview-bullet-point li[data-list=triangle]::before,
+.jg_m-article .ql-editor li[data-list=bullet]::before,
 .jg_m-article .ql-editor li[data-list=arrow]::before,
 .jg_m-article .ql-editor li[data-list=checkMark]::before,
 .jg_m-article .ql-editor li[data-list=star]::before,
@@ -1658,7 +1672,8 @@ article.limited .jg_m-article p {
     height: 14px;
     width: 14px;
     background-repeat: no-repeat;
-    background-size: contain
+    background-size: contain;
+    background-position: center;
 }
 
 .jg_m-article .ql-formats button[value=arrow]::before,
@@ -1670,6 +1685,12 @@ article.limited .jg_m-article p {
     background-size: contain;
     background-repeat: no-repeat;
     display: block
+}
+
+.jg_m-article .preview-bullet-point li[data-list=bullet]::before,
+.jg_m-article .ql-editor li[data-list=bullet]::before {
+  background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5V0.5C4.38071 0.5 5.5 1.61929 5.5 3V3C5.5 4.38071 4.38071 5.5 3 5.5V5.5C1.61929 5.5 0.5 4.38071 0.5 3V3Z' fill='black'/%3E%3C/svg%3E%0A");
+  background-size: 6px;
 }
 
 .jg_m-article .preview-bullet-point li[data-list=star]::before,
