@@ -3,14 +3,14 @@
 - LABEL => no change
 - FEATURED_SUMMARY => no change
 - AUTHOR => no change
-- FEATURED_MEDIA => change
+- FEATURED_MEDIA
 
 - HEADLINE => no change
 - HIGHTLIGHT => no change
 - INLINE_TEXT => no change
 - PARAGRAPH => no change
-- IMAGE => done
-- VIDEO =>
+- IMAGE
+- VIDEO
 - DOCUMENT
 - EMBED
 - LINE_BREAK => no change
@@ -29,5 +29,26 @@
 - OPINION_POLL => no change
 - ADS => no change
 - RECOMMENDED => no change
-- MATHEMATICS
-- TINY
+- MATHEMATICS =>
+- TINY =>
+
+
+
+
+
+
+
+
+
+- image, video iframe, carousel controls - working
+
+- amp form for poll - pending
+- genrate scripts according to control - done
+- test all 3 embed - twitter not working
+- poll, quiz script and design - done
+- video hash genrate - done
+- audio icon - pending
+- iframe hash genrate - done
+
+- google charts scripts - not finding any clue
+- tiny mce html and mathematics - not clear
